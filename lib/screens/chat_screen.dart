@@ -146,6 +146,8 @@ class MessagesStream extends StatelessWidget {
         }).toList();
 
         return Expanded(
+
+          
           child: ListView(
             padding: const EdgeInsets.symmetric(
                 horizontal: 10.0, vertical: 20.0
